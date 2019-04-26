@@ -4,11 +4,11 @@
   <img src="https://github.com/jiangxin333/uni-app/blob/master/static/demoimg/1556279014(1).png">
 </div>
 <div>
-  <img src="app/blob/master/static/demoimg/1556279092.jpg">
+  <img src="https://github.com/jiangxin333/uni-app/blob/master/static/demoimg/1556279092.jpg">
 </div>
 <div>
-  <img src="app/blob/master/static/demoimg/1556279124(1).jpg">
+  <img src="https://github.com/jiangxin333/uni-app/blob/master/static/demoimg/1556279124(1).jpg">
 </div>
 <div>
-  <img src="app/blob/master/static/demoimg/1556279153(1).jpg">
+  <img src="https://github.com/jiangxin333/uni-app/blob/master/static/demoimg/1556279153(1).jpg">
 </div>
