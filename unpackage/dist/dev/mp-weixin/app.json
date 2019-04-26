@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/money/money",
+    "pages/mentor/mentor",
+    "pages/my/my"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#64c36a",
+    "backgroundColor": "#efefef",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/money/money",
+        "iconPath": "static/img/tabBaricon/1.1.png",
+        "selectedIconPath": "static/img/tabBaricon/1.2.png",
+        "text": "赚钱"
+      },
+      {
+        "pagePath": "pages/mentor/mentor",
+        "iconPath": "static/img/tabBaricon/2.1.png",
+        "selectedIconPath": "static/img/tabBaricon/2.2.png",
+        "text": "师徒"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/img/tabBaricon/3.1.png",
+        "selectedIconPath": "static/img/tabBaricon/3.2.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {
+    "page-head": "/components/page-head",
+    "page-foot": "/components/page-foot"
+  },
+  "sitemapLocation": "sitemap.json"
+}

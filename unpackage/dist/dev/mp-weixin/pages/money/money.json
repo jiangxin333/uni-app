@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": false,
+  "onReachBottomDistance": 300,
+  "usingComponents": {
+    "wuc-tab": "/components/wuc-tab/wuc-tab",
+    "mescroll-uni": "/node-modules/mescroll-uni/mescroll-uni"
+  }
+}

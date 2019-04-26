@@ -1,0 +1,1 @@
+<view class="mentor" bind:__l="__l">{{''+msg+''}}</view>
